@@ -1,0 +1,7 @@
+
+V
+java:S1220""Move this file to a named package.J$a6aaaa53-4164-4971-89dd-9651aa6e2c42
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÀÙüúÿÿÿÿ8­èÎ÷ì1J$d771df7c-79c1-40d2-8562-6075ce034ef2
+r	java:S106"+Replace this use of System.out by a logger.(Êù£şúÿÿÿÿ8±èÎ÷ì1J$365d91f8-6e54-45da-a98c-1d5eb084af09
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÈõÓ÷ì1J$6252e705-17fd-4414-aefd-c5f1f641de50
